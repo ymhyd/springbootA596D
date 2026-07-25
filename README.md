@@ -1,5 +1,3 @@
-# springbootA596D
-springbootA596D公交便民服务系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
